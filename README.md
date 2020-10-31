@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bhavyaratra&&show_icons=true%title_color=ffffff&theme=gruvbox&repo=github-readme-stats">
+![Bhavya's github stats](https://github-readme-stats.vercel.app/api?username=Bhavyaratra&count_private=true&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyaratra&layout=compact">
 <!--
