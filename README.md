@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Bhavya's github stats](https://github-readme-stats.vercel.app/api?username=Bhavyaratra&count_private=true&theme=tokyonight)
+![Bhavya's github stats](https://github-readme-stats.vercel.app/api?username=Bhavyaratra&count_private=true&theme=merko)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyaratra&layout=compact">
 <!--
