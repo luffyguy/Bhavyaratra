@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyaratra&layout=compact&theme=radical">
 <!--
